@@ -1,4 +1,5 @@
 import React from 'react'
+
 import storiesOf from '../../../../.storybook/util'
 import <%= componentName %> from '.'
 

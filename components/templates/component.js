@@ -12,4 +12,4 @@ export const <%= componentName %> = ({ classes }) => {
   classes: PropTypes.object.isRequired
 }
 
-export default withStyles(styels)(<%= componentName %>)
+export default withStyles(styles)(<%= componentName %>)
